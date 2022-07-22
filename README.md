@@ -6,7 +6,7 @@
 ### <div align="center">My name is Michael but friends call me Mike. </div>  
   
 
-- A Software Developer student at MITT, Winnipeg. 💻  
+- A Software Developer student at MITT, Winnipeg 💻  
   
 
 - Wants to learn more about Machine Learning and Data Science 🤔  
