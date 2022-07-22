@@ -1,7 +1,7 @@
 <div align="center">
-<img src="https://media.giphy.com/media/Vg0mb12Fpi41cCqkuw/giphy-downsized-large.gif" align="center" style="width: 100%" />
+<img src="https://media.giphy.com/media/Vg0mb12Fpi41cCqkuw/giphy-downsized.gif" align="center" style="width: 100%" />
 </div>  
-  
+ 
 
 ### <div align="center">My name is Michael but friends call me Mike. </div>  
   
