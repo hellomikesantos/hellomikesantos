@@ -83,8 +83,7 @@
 
 <br/>  
 
-
-## Recent Blog Posts  
+## Currently Listening To
   
 
 <br/>  
